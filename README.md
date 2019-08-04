@@ -17,4 +17,4 @@ Run Python2 main.py from cmd
 
 Gameplay:
 
-https://giphy.com/embed/ZEStJrIkNIcEnEQoZ7
+<video src="https://giphy.com/gifs/ZEStJrIkNIcEnEQoZ7/html5" width="320" height="200" controls preload></video>
