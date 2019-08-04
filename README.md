@@ -16,5 +16,6 @@ Run:
 Run Python2 main.py from cmd
 
 Gameplay:
-![Alt Text](https://media.giphy.com/media/ZEStJrIkNIcEnEQoZ7/giphy.gif)
+
+<iframe src="https://giphy.com/embed/ZEStJrIkNIcEnEQoZ7" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ZEStJrIkNIcEnEQoZ7">via GIPHY</a></p>
 
