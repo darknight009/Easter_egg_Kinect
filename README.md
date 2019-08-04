@@ -16,5 +16,5 @@ Run:
 Run Python2 main.py from cmd
 
 Gameplay:
-![Alt Text](https://j.gifs.com/jqmmVY.gif)
+![Alt Text](https://gph.is/g/Z21LdO7)
 
