@@ -9,5 +9,5 @@ Requirements:
 
 
 Controls:
-> Raise arm to toss the egg
-> Clap to restart the game
+1. Raise arm to toss the egg
+2. Clap to restart the game
