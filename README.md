@@ -11,3 +11,6 @@ Requirements:
 Controls:
 1. Raise arm to toss the egg
 2. Clap to restart the game
+
+Run:
+Run Python2 main.py from cmd
